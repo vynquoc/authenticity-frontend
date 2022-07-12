@@ -1,0 +1,96 @@
+{
+    "navbar": {
+        "1": "Trang chủ",
+        "2": "Sản phẩm",
+        "3": "Tin tức",
+        "4": "Đăng kí/Đăng nhập",
+        "5": "Đăng xuất",
+        "6": "Tài khoản"
+    },
+    "banner": "Mua & Bán",
+    "cancel": "Hủy",
+    "confirm": "Xác nhận",
+    "searchbar": "Màu sắc, thương hiệu, tên sản phẩm, ...",
+    "seeAll": "Xem tất cả",
+    "popular": "Thương hiệu nổi tiếng",
+    "streetwearTrending": "Streetwear thịnh hành",
+    "sneakerNew": "Sneakers mới phát hành",
+    "avgPrice": "Giá Bán Trung Bình",
+    "recentViewed": "Xem gần đây",
+    "latestNews": "Tin tức mới nhất",
+    "filter": {
+        "1": "Danh mục",
+        "2": "Thương hiệu"
+    },
+    "chat": {
+        "1": "Chat với nhân viên hỗ trợ",
+        "2": "Nhập email của bạn",
+        "3": "Bắt đầu",
+        "4": "Hãy để lại tin nhắn. Nhân viên sẽ phản hồi trong ít phút"
+    },
+    "productDetail": {
+        "condition": "Tình trạng: Mới",
+        "buyOrBid": {
+            "1": "Mua",
+            "2": "hoặc",
+            "3": "Đấu Giá"
+        },
+        "sellOrAsk": {
+            "1": "Bán",
+            "2": "hoặc",
+            "3": "Ra Giá"
+        },
+        "lowestAsk": "Giá bán thấp nhất",
+        "highestBid": "Giá trả cao nhất",
+        "latestSale": "Giá bán gần nhất",
+        "allSale": "Tất cả lần bán",
+        "allBids": "Tất cả đấu giá",
+        "allAsks": "Tất cả giá bán",
+        "colorway": "Màu sắc",
+        "retail": "Giá niêm yết",
+        "release": "Ngày ra mắt",
+        "description": "Mô tả sản phẩm",
+        "detailTitle": {
+            "1": "Chi tiết sản phẩm",
+            "2": "Xem gần đây"
+        },
+        "notUpdate": "Chưa cập nhật",
+        "addFollowing": "Thêm sản phẩm đang theo dõi",
+        "chooseSize": "Chọn kích cỡ",
+        "sizeChart": "Bảng kích cỡ"
+        
+    },
+    "signUp": {
+        "1": "Đăng kí",
+        "2": "Họ và tên",
+        "3": "Tài khoản",
+        "4": "Email",
+        "5": "Mật khẩu",
+        "6": "Xác nhận mật khẩu",
+        "7": "Đã có tài khoản ?",
+        "8": "Đăng kí thành công !!!",
+        "9": "để tiếp tục"
+    },
+    "signIn": {
+        "1": "Đăng nhập",
+        "2": "Tài khoản",
+        "3": "Mật khẩu",
+        "4": "Chưa có tài khoản ? ",
+        "5": "Quên mật khẩu"
+    },
+    "service": "Giá chưa bao gồm phí xử lý",
+    "noData": "Không Có Dữ Liệu",
+    "allBids": "Tất cả đấu giá",
+    "allAsks": "Tất cả giá bán",
+    "allSales": "Tất cả lần bán",
+    "size": "Kích cỡ",
+    "price": "Giá",
+    "date": "Ngày",
+    "time": "Giờ",
+    "news": {
+        "banner": "Tổng hợp tin tức",
+        "title": "Nắm Bắt Những Thông Tin Trending",
+        "other": "Các tin khác"
+    }
+
+}

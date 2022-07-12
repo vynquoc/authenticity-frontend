@@ -1,0 +1,95 @@
+{
+    "navbar": {
+        "1": "Home",
+        "2": "Products",
+        "3": "News",
+        "4": "Sign up/Sign in",
+        "5": "Logout",
+        "6": "Account"
+    },
+    "banner": "Buy & Sell",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "searchbar": "Colors, brands, name, ...",
+    "seeAll": "See all",
+    "popular": "Popular Brands",
+    "streetwearTrending": "Streetwear Trending",
+    "sneakerNew": "New Release Sneaker",
+    "avgPrice": "Average Price",
+    "recentViewed": "Recently Viewed",
+    "latestNews": "Latest News",
+    "filter": {
+        "1": "Categories",
+        "2": "Brands"
+    },
+    "chat": {
+        "1": "Chat with supporter",
+        "2": "Enter your email",
+        "3": "Start",
+        "4": "Please leave a message here. Our supporter will reply in a few minutes"
+    },
+    "productDetail": {
+        "condition": "Condition: New",
+        "buyOrBid": {
+            "1": "Buy",
+            "2": "or",
+            "3": "Bid"
+        },
+        "sellOrAsk": {
+            "1": "Sell",
+            "2": "or",
+            "3": "Ask"
+        },
+        "lowestAsk": "Lowest Ask",
+        "highestBid": "Highest Bid",
+        "latestSale": "Last sale",
+        "allSale": "All Sales",
+        "allBids": "All Bids",
+        "allAsks": "All Asks",
+        "colorway": "Colorway",
+        "retail": "Retail price",
+        "release": "Release Date",
+        "description": "Description",
+        "detailTitle": {
+            "1": "Details",
+            "2": "Recently Viewed"
+        },
+        "notUpdate": "Not Updated",
+        "addFollowing": "Add following products",
+        "chooseSize": "Choose size",
+        "sizeChart": "Size Chart"
+    },
+    "signUp": {
+        "1": "Sign Up",
+        "2": "Full name",
+        "3": "Username",
+        "4": "Email",
+        "5": "Password",
+        "6": "Confirm password",
+        "7": "Already signed up ? ",
+        "8": "Successfully !!!",
+        "9": "to continue"
+    },
+    "signIn": {
+        "1": "Sign In",
+        "2": "Username",
+        "3": "Password",
+        "4": "Haven't sign up ? ",
+        "5": "Forgot password"
+    },
+    "service": "(Not included process fees)",
+  
+    "noData": "No Data",
+    "allBids": "All Bids",
+    "allAsks": "All Asks",
+    "allSales": "All Sales",
+    "size": "Size",
+    "price": "Price",
+    "date": "Date",
+    "time": "Time",
+    "news": {
+        "banner": "All about",
+        "title": "All Trending News",
+        "other": "Other news"
+    }
+}
