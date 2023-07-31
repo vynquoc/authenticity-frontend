@@ -79,7 +79,7 @@ const Category = ({ title, link, recent, category }) => {
               <Skeleton height={180} />
               <Skeleton />
               <p className="capitalize text-xs text-gray-500">
-                Giá bán trung bình
+                {t("avgPrice")}
               </p>
               <Skeleton width={100} />
             </div>
@@ -87,7 +87,7 @@ const Category = ({ title, link, recent, category }) => {
               <Skeleton height={180} />
               <Skeleton />
               <p className="capitalize text-xs text-gray-500">
-                Giá bán trung bình
+                {t("avgPrice")}
               </p>
               <Skeleton width={100} />
             </div>
@@ -95,7 +95,7 @@ const Category = ({ title, link, recent, category }) => {
               <Skeleton height={180} />
               <Skeleton />
               <p className="capitalize text-xs text-gray-500">
-                Giá bán trung bình
+                {t("avgPrice")}
               </p>
               <Skeleton width={100} />
             </div>
@@ -103,7 +103,7 @@ const Category = ({ title, link, recent, category }) => {
               <Skeleton height={180} />
               <Skeleton />
               <p className="capitalize text-xs text-gray-500">
-                Giá bán trung bình
+                {t("avgPrice")}
               </p>
               <Skeleton width={100} />
             </div>
@@ -111,7 +111,7 @@ const Category = ({ title, link, recent, category }) => {
               <Skeleton height={180} />
               <Skeleton />
               <p className="capitalize text-xs text-gray-500">
-                Giá bán trung bình
+                {t("avgPrice")}
               </p>
               <Skeleton width={100} />
             </div>
